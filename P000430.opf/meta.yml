@@ -1,15 +1,16 @@
-id: opecha:P000430
+id: P000430
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4777
   title: ཕ་དམ་པ་སངས་རྒྱས་དང་མ་ཅིག་ལབ་སྒྲོན་གྱི་རྣམ་ཐར།
-  volume:
+  author: ''
+  volumes:
     47dc8fbade894d7794301e3b76540768:
       image_group_id: I3CN4779
       title: Volume 1 of pha dam pa dang ma cig lab sgron gyi rnam thar/
       volume_number: 1
       total_pages: 660
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཕ་དམ་པ་སངས་རྒྱས་དང་མ་ཅིག་ལབ་སྒྲོན་གྱི་རྣམ་ཐར།
   author: ''
